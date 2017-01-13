@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "330016643300",
+    "firebase_url": "https://aloborg-7ec04.firebaseio.com",
+    "project_id": "aloborg-7ec04",
+    "storage_bucket": "aloborg-7ec04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330016643300:android:e217df166d5a8735",
+        "android_client_info": {
+          "package_name": "com.developerbyweekend.aloborg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330016643300-g52gbme60tff5he2nmcq6n03trf75quj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.developerbyweekend.aloborg",
+            "certificate_hash": "AA82BF2C070EBF974B69C4D9004BC1236012C4D0"
+          }
+        },
+        {
+          "client_id": "330016643300-ciokalpvq56i2vab43t800q8f2clo3jg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALhwIRbeA2O5_ItxqHrmUqsqw6H3yHM7w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330016643300-ciokalpvq56i2vab43t800q8f2clo3jg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2B3F52</color>
+    <color name="colorPrimaryDark">#238CC5</color>
+    <color name="colorAccent">#51B3DA</color>
+    <color name="white">#ffffff</color>
+    <color name="bg_msg_from">#51B3DA</color>
+    <color name="bg_msg_to">#238CC5</color>
+    <color name="lblFromName">#777777</color>
+    <color name="bg_msg_input">#e8e8e8</color>
+    <color name="text_msg_input">#626262</color>
+</resources>
